@@ -1,0 +1,53 @@
+.navbar{
+    background-color: white
+}
+.navbar-toggler i {
+    color: blueviolet;
+    font-size: 25px;
+}
+.navbar-toggler1 i{
+    color: blueviolet;
+    font-size: 25px;
+
+}
+.nav-link{
+    color: blueviolet !important;
+    padding-left: 20px !important;
+
+}
+.nav-link1{
+    color: blueviolet !important;
+    padding-left: 20px !important;
+
+}
+.nav-link:hover{
+    background-color: aqua;
+}
+
+.jumbotron{
+    background-image: url(/images/violeta.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    color: white;
+    text-shadow: 0 0 5px;
+    text-align: center;
+}
+.jumbotron1{
+    background-image: url(/images/boca.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    color: white;
+    text-shadow: 0 0 5px;
+    text-align: center;
+}
+
+
+h1{
+    backdrop-filter: blur(10px);
+    text-align: center;
+    color: white;
+
+
+}
